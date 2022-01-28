@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spacedudesnft/static/css/main.8030fb05.chunk.css",
-    "main.js": "/spacedudesnft/static/js/main.6e43b10f.chunk.js",
-    "main.js.map": "/spacedudesnft/static/js/main.6e43b10f.chunk.js.map",
+    "main.js": "/spacedudesnft/static/js/main.e1438193.chunk.js",
+    "main.js.map": "/spacedudesnft/static/js/main.e1438193.chunk.js.map",
     "runtime-main.js": "/spacedudesnft/static/js/runtime-main.a791e0bb.js",
     "runtime-main.js.map": "/spacedudesnft/static/js/runtime-main.a791e0bb.js.map",
     "static/css/2.4659568d.chunk.css": "/spacedudesnft/static/css/2.4659568d.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.5ef29044.chunk.js",
     "static/css/main.8030fb05.chunk.css",
-    "static/js/main.6e43b10f.chunk.js"
+    "static/js/main.e1438193.chunk.js"
   ]
 }
