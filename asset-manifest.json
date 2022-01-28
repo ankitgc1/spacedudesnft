@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ankitgc1/spacedudesnft.git/static/css/main.8030fb05.chunk.css",
+    "main.js": "/ankitgc1/spacedudesnft.git/static/js/main.6e43b10f.chunk.js",
+    "main.js.map": "/ankitgc1/spacedudesnft.git/static/js/main.6e43b10f.chunk.js.map",
+    "runtime-main.js": "/ankitgc1/spacedudesnft.git/static/js/runtime-main.c662a6f2.js",
+    "runtime-main.js.map": "/ankitgc1/spacedudesnft.git/static/js/runtime-main.c662a6f2.js.map",
+    "static/css/2.4659568d.chunk.css": "/ankitgc1/spacedudesnft.git/static/css/2.4659568d.chunk.css",
+    "static/js/2.08006d78.chunk.js": "/ankitgc1/spacedudesnft.git/static/js/2.08006d78.chunk.js",
+    "static/js/2.08006d78.chunk.js.map": "/ankitgc1/spacedudesnft.git/static/js/2.08006d78.chunk.js.map",
+    "static/js/3.da82d72a.chunk.js": "/ankitgc1/spacedudesnft.git/static/js/3.da82d72a.chunk.js",
+    "static/js/3.da82d72a.chunk.js.map": "/ankitgc1/spacedudesnft.git/static/js/3.da82d72a.chunk.js.map",
+    "index.html": "/ankitgc1/spacedudesnft.git/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/ankitgc1/spacedudesnft.git/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.8030fb05.chunk.css.map": "/ankitgc1/spacedudesnft.git/static/css/main.8030fb05.chunk.css.map",
+    "static/js/2.08006d78.chunk.js.LICENSE.txt": "/ankitgc1/spacedudesnft.git/static/js/2.08006d78.chunk.js.LICENSE.txt",
+    "static/media/Artist.ad62c7d6.jpeg": "/ankitgc1/spacedudesnft.git/static/media/Artist.ad62c7d6.jpeg",
+    "static/media/Programmer.2c4af2cd.jpeg": "/ankitgc1/spacedudesnft.git/static/media/Programmer.2c4af2cd.jpeg",
+    "static/media/bg.e24b9074.png": "/ankitgc1/spacedudesnft.git/static/media/bg.e24b9074.png",
+    "static/media/cf.ca680f32.jpeg": "/ankitgc1/spacedudesnft.git/static/media/cf.ca680f32.jpeg",
+    "static/media/gif.51f8c0d5.gif": "/ankitgc1/spacedudesnft.git/static/media/gif.51f8c0d5.gif",
+    "static/media/img1.7059bcdf.png": "/ankitgc1/spacedudesnft.git/static/media/img1.7059bcdf.png",
+    "static/media/img2.ff06941a.png": "/ankitgc1/spacedudesnft.git/static/media/img2.ff06941a.png",
+    "static/media/img3.89f3663a.png": "/ankitgc1/spacedudesnft.git/static/media/img3.89f3663a.png",
+    "static/media/img4.176678af.png": "/ankitgc1/spacedudesnft.git/static/media/img4.176678af.png",
+    "static/media/logo.70a43cdf.png": "/ankitgc1/spacedudesnft.git/static/media/logo.70a43cdf.png",
+    "static/media/mrscf.9cc8942c.jpeg": "/ankitgc1/spacedudesnft.git/static/media/mrscf.9cc8942c.jpeg",
+    "static/media/twitter.41ec9b29.png": "/ankitgc1/spacedudesnft.git/static/media/twitter.41ec9b29.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c662a6f2.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.08006d78.chunk.js",
+    "static/css/main.8030fb05.chunk.css",
+    "static/js/main.6e43b10f.chunk.js"
+  ]
+}
